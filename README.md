@@ -89,4 +89,4 @@ Is Space-Time Attention All You Need for Video Understanding?
 #### Contributors
 ```
  멀티캠퍼스 Final Project 왕누나있조(6조)입니다. 
- 신재웅(github/Ukjang), 김성호(github/Kwon-Giil ), 김성진(github/ksw0733), 박찬규(github/luckyspia)
+ 신재웅(github/Ukjang), 김성호(github/Dim225), 김성진(github/ksw0733), 박찬규(github/luckyspia)
